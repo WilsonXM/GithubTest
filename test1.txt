@@ -1,1 +1,3 @@
 lyb local test1
+
+fuck 1
